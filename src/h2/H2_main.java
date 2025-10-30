@@ -25,8 +25,8 @@ public class H2_main {
             max = k;
         }
 
-        System.out.println(min);
-        System.out.println(max);
+        //System.out.println(min);
+        //System.out.println(max);
     }
 
 }

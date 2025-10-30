@@ -24,6 +24,6 @@ public class H3_main {
             k = -10;
         }
 
-        System.out.println(k);
+        //System.out.println(k);
     }
 }
